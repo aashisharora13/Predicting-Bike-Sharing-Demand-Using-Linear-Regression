@@ -63,4 +63,9 @@ The box plot between the number of bike rentals and season shows that the line c
 ![pic4](https://user-images.githubusercontent.com/16829371/34807109-e4cdfffa-f654-11e7-8c86-c195b10c7d95.png)
 During non working days there is very less bike rental during morning hours and it eventually increases after noon.
 
+## Model Building
+This model will be predicting the count of the bike rental based on the temp variable.
+
+
+
 
