@@ -83,6 +83,8 @@ humidity
 windspeed 
 hour (factor)
 
+![pic6](https://user-images.githubusercontent.com/16829371/34807294-f371faba-f655-11e7-9508-4d9bdf9d277f.PNG)
 
-
+## Important Finding
+This sort of model doesn’t work well given our seasonal and time series data. We need a model that can account for this type of trend. We will get thrown off with the growth of our dataset accidentaly attributing to the winter season instead of realizing it’s just overall demand growing.
 
