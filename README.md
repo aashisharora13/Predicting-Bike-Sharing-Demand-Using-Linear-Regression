@@ -41,6 +41,17 @@ We are trying to predict count variable i.e. number of total rentals which will 
 First I will be conducting exploratory data analysis which is an essential step to undestand the data.
 
 ## Scatter Plot to show the relationship between count (number of total rentals) and temp (temperature in Celsius)
+![pic1](https://user-images.githubusercontent.com/16829371/34804580-60e7f57c-f647-11e7-806d-0bc467adffa8.png)
 
+The above scatter plot shows that as the temperature increases the count i.e. the number of total rentals also increases.
 
+## Scatter Plot to show the relationship between count (number of total rentals) and date time.
+
+There is a clear seasonal trend where the total rental bikes seems to decrease during Winters i.e month of January 
+and Feburary of the year and the total rental bikes seems to increase during summers.
+The other trend which is quite evident is that the number of rental bike counts is increasing from year 2011 to year 2013.
+
+## Box Plot
+
+The box plot between the number of bike rentals and season shows that the line can not capture the non linear relationship and that there’s is more rentals in winter as compared to spring.
 
