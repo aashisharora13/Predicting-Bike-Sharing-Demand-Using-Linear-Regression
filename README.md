@@ -66,6 +66,8 @@ During non working days there is very less bike rental during morning hours and 
 ## Model Building
 This model will be predicting the count of the bike rental based on the temp variable.
 
+![pic5](https://user-images.githubusercontent.com/16829371/34807216-7d6a7554-f655-11e7-8420-99c641ab1720.PNG)
+
 
 
 
