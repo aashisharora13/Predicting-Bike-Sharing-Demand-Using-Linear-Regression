@@ -47,6 +47,8 @@ The above scatter plot shows that as the temperature increases the count i.e. th
 
 ## Scatter Plot to show the relationship between count (number of total rentals) and date time.
 
+![pic2](https://user-images.githubusercontent.com/16829371/34804650-bab0e5dc-f647-11e7-8d19-8585afaabc33.png)
+
 There is a clear seasonal trend where the total rental bikes seems to decrease during Winters i.e month of January 
 and Feburary of the year and the total rental bikes seems to increase during summers.
 The other trend which is quite evident is that the number of rental bike counts is increasing from year 2011 to year 2013.
