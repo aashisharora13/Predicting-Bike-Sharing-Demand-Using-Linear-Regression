@@ -68,6 +68,21 @@ This model will be predicting the count of the bike rental based on the temp var
 
 ![pic5](https://user-images.githubusercontent.com/16829371/34807216-7d6a7554-f655-11e7-8420-99c641ab1720.PNG)
 
+## Model Interpretation
+** Based on the value of Intercept which is 6.0462, linear regression model predicts that there will be 6 bike rental when the temperature is 0. ** For temp variable Estimated Std. value is 9.1705 which signigies that a temperature increase of 1 celsius holding all things equal is associated with a rental increase of about 9.1 bikes. 
+** The above findings is not a Causation and Beta 1 would be negative if an increase in temperature was associated with a decrease in rentals.
+
+## Building Second Model with more features
+Model that attempts to predict count based off of the following features :- 
+season 
+holiday 
+workingday 
+weather 
+temp 
+humidity 
+windspeed 
+hour (factor)
+
 
 
 
