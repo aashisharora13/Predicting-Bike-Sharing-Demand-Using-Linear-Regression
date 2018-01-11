@@ -57,3 +57,9 @@ The other trend which is quite evident is that the number of rental bike counts 
 
 The box plot between the number of bike rentals and season shows that the line can not capture the non linear relationship and that there’s is more rentals in winter as compared to spring.
 
+![pic3](https://user-images.githubusercontent.com/16829371/34804653-bf81b6b8-f647-11e7-9362-3382bf98dafe.png)
+
+## Relationship between hour of the non-working day and the count of bikes rented.
+
+During non working days there is very less bike rental during morning hours and it eventually increases after noon.
+
